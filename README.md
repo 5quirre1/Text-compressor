@@ -1,1 +1,1 @@
-we talked about decompressing text and stuff so while we were watching video, I made
+we talked about compressing text and stuff in coding class so while we were watching video, I made
